@@ -1,0 +1,13 @@
+C:\Riyanshika\github\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.deps.json
+C:\Riyanshika\github\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.dll
+C:\Riyanshika\github\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+C:\Riyanshika\github\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Riyanshika\github\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Riyanshika\github\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfo.cs
+C:\Riyanshika\github\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Riyanshika\github\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.sourcelink.json
+C:\Riyanshika\github\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.dll
+C:\Riyanshika\github\ApplicationLayer\obj\Debug\net8.0\refint\ApplicationLayer.dll
+C:\Riyanshika\github\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.pdb
+C:\Riyanshika\github\ApplicationLayer\obj\Debug\net8.0\ref\ApplicationLayer.dll
+C:\Riyanshika\github\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.AssemblyReference.cache

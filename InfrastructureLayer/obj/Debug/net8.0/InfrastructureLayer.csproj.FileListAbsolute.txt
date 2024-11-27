@@ -1,0 +1,16 @@
+C:\Riyanshika\github\InfrastructureLayer\bin\Debug\net8.0\InfrastructureLayer.deps.json
+C:\Riyanshika\github\InfrastructureLayer\bin\Debug\net8.0\InfrastructureLayer.dll
+C:\Riyanshika\github\InfrastructureLayer\bin\Debug\net8.0\InfrastructureLayer.pdb
+C:\Riyanshika\github\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Riyanshika\github\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.AssemblyInfoInputs.cache
+C:\Riyanshika\github\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.AssemblyInfo.cs
+C:\Riyanshika\github\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.csproj.CoreCompileInputs.cache
+C:\Riyanshika\github\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.sourcelink.json
+C:\Riyanshika\github\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.dll
+C:\Riyanshika\github\InfrastructureLayer\obj\Debug\net8.0\refint\InfrastructureLayer.dll
+C:\Riyanshika\github\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.pdb
+C:\Riyanshika\github\InfrastructureLayer\obj\Debug\net8.0\ref\InfrastructureLayer.dll
+C:\Riyanshika\github\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.csproj.AssemblyReference.cache
+C:\Riyanshika\github\InfrastructureLayer\bin\Debug\net8.0\ApplicationLayer.dll
+C:\Riyanshika\github\InfrastructureLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+C:\Riyanshika\github\InfrastructureLayer\obj\Debug\net8.0\Infrastr.B5BC0072.Up2Date
