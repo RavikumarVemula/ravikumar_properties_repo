@@ -1,0 +1,45 @@
+/* HierarchicalGrid.css */
+
+.hierarchical-grid {
+    margin: 20px;
+  }
+  
+  .grid-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .property-card {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .property-card h3 {
+    font-size: 18px;
+  }
+  
+  .property-card h4 {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .property-card p {
+    margin: 5px 0;
+  }
+  
+  .property-card .spaces {
+    margin-top: 15px;
+  }
+  
+  .property-card .space {
+    margin-left: 20px;
+  }
+  
+  .property-card .rent-roll {
+    margin-left: 20px;
+  }
+  
